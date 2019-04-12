@@ -21,7 +21,7 @@
     <h2>HOME</h2>
   
     <a href="https://ppals-stl-4-h.github.io/PPALS_STL_4H/">Home</a>
-    <a href="https://ppalsstl4-h.github.io/PPALS-Contact-Us/">Contact Us</a>
+    <a href="https://ppalsstl4-h.github.io/PPALS-Contact-Us//">Contact Us</a>
     <p>
      <strong> Welcome to 4-H PPALS website!</strong>
       <br>
