@@ -16,8 +16,6 @@
   <body>
     <h1>We are PPALS</h1>
     <h3>Which stands for Preventing Population of Animals Living on Streets.</h3>
-    <a href="index.html">Home</a>
-    <a href="reach%20us.html">Contact Us</a>
     <h2>HOME</h2>
   
     <a href="https://ppals-stl-4-h.github.io/PPALS_STL_4H/">Home</a>
