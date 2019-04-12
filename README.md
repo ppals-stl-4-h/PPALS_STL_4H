@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+Which stands for Preventing Population of Animals Living on Streets.
+HomeReach Us
+HOME
+Welcome to 4-H PPALS website! 
+PPALS is a nonprofit 4-H group that has a community action plan to help inform the public about over population of pets. 
 
-You can use the [editor on GitHub](https://github.com/ppals-stl-4-h/PPALS_STL_4H/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
+  <a herf="https://urlzs.com/AW8y">Fallow us on Facebook</a>
+  <br>
+  <a href="https://www.instagram.com/4h_ppals/">Fallow us on Instagram</a>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ppals-stl-4-h/PPALS_STL_4H/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   
+   
+</p>
+@PPALSSTL4-H
