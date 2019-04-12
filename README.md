@@ -25,17 +25,12 @@
       PPALS is a nonprofit 4-H group that has a community action plan to help inform the public about over population of pets.
       <br>
       <br>
-      <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
       <br>
       <br>
       <img src="http://spcasuncoast.org/wp-content/uploads/2017/02/spca.jpg" >
       <br>
       <br>
-      <img src="https://www.facebook.com/294691431214193/photos/a.294698214546848/294698191213517/?type=3&theater" >
+      <img src="http://spcasuncoast.org/wp-content/uploads/2017/02/bigstock-Group-of-dogs-and-cats-sitting-30485996.jpg" >
       <br>
       
       <a herf="https://urlzs.com/AW8y">Fallow us on Facebook</a>
